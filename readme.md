@@ -29,4 +29,4 @@ cd book_reading.tdd.java
 - [ ] DollarとFrancの重複
 - [ ] equalsの一般化
 - [ ] timesの一般化
-- [ ] FrancとDollarを比較する
+- [x] FrancとDollarを比較する
