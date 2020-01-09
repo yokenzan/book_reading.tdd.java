@@ -22,5 +22,5 @@ cd book_reading.tdd.java
 - [x] Bank.reduce(Money)
 - [x] Moneyを変換して換算を行う
 - [x] Reduce(Bank, String)
-- [ ] Sum.plus
-- [ ] Expression.times
+- [x] Sum.plus
+- [x] Expression.times
