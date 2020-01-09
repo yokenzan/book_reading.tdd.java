@@ -2,7 +2,7 @@
 
 # About
 
-This repository is for an excersize of TDD.
+This repository is for an excersize of TDD. ~ Chapter 18
 
 
 # Build
